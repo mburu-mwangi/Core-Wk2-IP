@@ -1,4 +1,11 @@
-# Core-Wk2-IP
+# Analysis Of Ownership Of Bank Account And Prediction Using A Sample Dataset. 
+This project was done using Google Colab notebook
+# by Alfonce Mwangi
+
+# Technologies used
+1. Google Colab
+2. Python and Jupiter notebooks
+
 # Defining The Question
 ## a) Specifying the Question
 The research problem is to figure out how one can predict which individuals are most likely to have or use a bank account. My solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
